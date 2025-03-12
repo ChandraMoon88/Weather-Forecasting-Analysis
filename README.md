@@ -1,3 +1,4 @@
+```markdown
 # Weather Forecasting Analysis
 
 ## Project Overview
@@ -18,3 +19,40 @@ To run this project, you need Python and the following dependencies installed:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
+```
+
+Additionally, Jupyter Notebook is required to execute the `.ipynb` file:
+```bash
+pip install notebook
+```
+
+## Usage
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/ChandraMoon88/weather-forecasting-analysis.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd weather-forecasting-analysis
+   ```
+3. Open Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+4. Run the `weather-forecasting-analysis.ipynb` notebook step by step.
+
+## Results
+The project provides:
+- Data-driven insights on weather patterns.
+- Predictive models for forecasting weather conditions.
+- Graphical representations of trends and relationships in weather data.
+
+## Contributions
+Contributions are welcome! Feel free to fork this repository and submit pull requests for improvements or additional features.
+
+## Additional Information
+The user is currently located in a GitHub repository, but possibly a sub-directory of that GitHub repository. Their current URL can tell you specifically, but included is some information about the languages and repository itself.
+repo: ChandraMoon88/Weather-Forecasting-Analysis
+repo ID: 947065603
+The language composition of this repo is 100% Jupyter Notebook.
+```
