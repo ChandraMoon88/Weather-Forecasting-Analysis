@@ -47,10 +47,6 @@ The project provides:
 
 ## Contributions
 Contributions are welcome! Feel free to fork this repository and submit pull requests for improvements or additional features.
-
-## Additional Information
-The user is currently located in a GitHub repository, but possibly a sub-directory of that GitHub repository. Their current URL can tell you specifically, but included is some information about the languages and repository itself.
-repo: ChandraMoon88/Weather-Forecasting-Analysis
 repo ID: 947065603
 The language composition of this repo is 100% Jupyter Notebook.
 ```
