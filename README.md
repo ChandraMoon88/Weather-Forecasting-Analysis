@@ -1,4 +1,3 @@
-```markdown
 # Weather Forecasting Analysis
 
 ## Project Overview
@@ -24,7 +23,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 Additionally, Jupyter Notebook is required to execute the `.ipynb` file:
 ```bash
 pip install notebook
-```
 
 ## Usage
 1. Clone this repository:
